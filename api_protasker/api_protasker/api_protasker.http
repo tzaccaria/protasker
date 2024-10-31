@@ -1,0 +1,6 @@
+@api_protasker_HostAddress = http://localhost:5294
+
+GET {{api_protasker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\controllers\\tachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\controllers\\tachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\dtos\\tachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\dtos\\tachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\dtos\\createtachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\dtos\\createtachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\enums\\statuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\enums\\statuttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\models\\maxintlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\models\\maxintlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\models\\maxtinyintlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\models\\maxtinyintlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zacca\\.nuget\\packages\\epplus\\7.4.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\data\\api_protaskercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\data\\api_protaskercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026110834_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_protasker\\Migrations\\20241026110834_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014205844_uti-tache-not-required.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014205844_uti-tache-not-required.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014204714_creation_models_utilisateur_tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014204714_creation_models_utilisateur_tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241014205844_uti-tache-not-required.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241014205844_uti-tache-not-required.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241026142450_create-new-validation-attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241026142450_create-new-validation-attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|c:\\users\\zacca\\documents\\3bid\\stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\migrations\\20241026113528_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8C0815-5E40-4CCE-953C-605A6603F38B}|api_protasker\\api_protasker.csproj|solutionrelative:api_protasker\\migrations\\20241026113528_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TachesController.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Controllers\\TachesController.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Controllers\\TachesController.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Controllers\\TachesController.cs",
+              "RelativeToolTip": "api_protasker\\Controllers\\TachesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:38:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TacheDto.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\DTOs\\TacheDto.cs",
+              "RelativeDocumentMoniker": "api_protasker\\DTOs\\TacheDto.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\DTOs\\TacheDto.cs",
+              "RelativeToolTip": "api_protasker\\DTOs\\TacheDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:19:13.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "api_protasker\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:09:14.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtilisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Controllers\\UtilisateursController.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Controllers\\UtilisateursController.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Controllers\\UtilisateursController.cs",
+              "RelativeToolTip": "api_protasker\\Controllers\\UtilisateursController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:07:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "api_protasker\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "api_protasker\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:19:53.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\appsettings.json",
+              "RelativeDocumentMoniker": "api_protasker\\appsettings.json",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\appsettings.json",
+              "RelativeToolTip": "api_protasker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T22:18:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tache.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\Tache.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Models\\Tache.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\Tache.cs",
+              "RelativeToolTip": "api_protasker\\Models\\Tache.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:09:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTacheDto.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\DTOs\\CreateTacheDto.cs",
+              "RelativeDocumentMoniker": "api_protasker\\DTOs\\CreateTacheDto.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\DTOs\\CreateTacheDto.cs",
+              "RelativeToolTip": "api_protasker\\DTOs\\CreateTacheDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:21:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Services\\ExcelService.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Services\\ExcelService.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Services\\ExcelService.cs",
+              "RelativeToolTip": "api_protasker\\Services\\ExcelService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:40:14.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatutType.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Enums\\StatutType.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Enums\\StatutType.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Enums\\StatutType.cs",
+              "RelativeToolTip": "api_protasker\\Enums\\StatutType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:49:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaxTinyintLengthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\MaxTinyintLengthAttribute.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Models\\MaxTinyintLengthAttribute.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\MaxTinyintLengthAttribute.cs",
+              "RelativeToolTip": "api_protasker\\Models\\MaxTinyintLengthAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:03:55.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaxIntLengthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\MaxIntLengthAttribute.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Models\\MaxIntLengthAttribute.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Models\\MaxIntLengthAttribute.cs",
+              "RelativeToolTip": "api_protasker\\Models\\MaxIntLengthAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:11:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "api_protaskerContext.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Data\\api_protaskerContext.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Data\\api_protaskerContext.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Data\\api_protaskerContext.cs",
+              "RelativeToolTip": "api_protasker\\Data\\api_protaskerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:10:28.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\zacca\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "ToolTip": "C:\\Users\\zacca\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T10:29:44.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Program.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Program.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Program.cs",
+              "RelativeToolTip": "api_protasker\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:20:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241026142450_create-new-validation-attribute.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026142450_create-new-validation-attribute.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241026142450_create-new-validation-attribute.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026142450_create-new-validation-attribute.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241026142450_create-new-validation-attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:24:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241026113528_sqlserver.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026113528_sqlserver.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241026113528_sqlserver.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026113528_sqlserver.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241026113528_sqlserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:35:28.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api_protasker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api_protasker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:19:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241014210647_change-tache-attribute-statut-to-byte-type.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.Designer.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.Designer.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.Designer.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:18:50.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241014205844_uti-tache-not-required.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014205844_uti-tache-not-required.Designer.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014205844_uti-tache-not-required.Designer.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014205844_uti-tache-not-required.Designer.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014205844_uti-tache-not-required.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:18:52.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241026110834_db.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026110834_db.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241026110834_db.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241026110834_db.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241026110834_db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:08:35.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241014210647_change-tache-attribute-statut-to-byte-type.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014210647_change-tache-attribute-statut-to-byte-type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:06:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241014204714_creation_models_utilisateur_tache.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014204714_creation_models_utilisateur_tache.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014204714_creation_models_utilisateur_tache.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014204714_creation_models_utilisateur_tache.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014204714_creation_models_utilisateur_tache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:47:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241014213757_change-tache-attribute-utilisateur-nullable.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014213757_change-tache-attribute-utilisateur-nullable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:37:57.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241014205844_uti-tache-not-required.cs",
+              "DocumentMoniker": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014205844_uti-tache-not-required.cs",
+              "RelativeDocumentMoniker": "api_protasker\\Migrations\\20241014205844_uti-tache-not-required.cs",
+              "ToolTip": "C:\\Users\\zacca\\Documents\\3BID\\Stage\\apkiosk\\apkiosk-protasker\\api_protasker\\api_protasker\\Migrations\\20241014205844_uti-tache-not-required.cs",
+              "RelativeToolTip": "api_protasker\\Migrations\\20241014205844_uti-tache-not-required.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:58:45.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+services:
+    # API .NET Core
+  api:
+    build:
+      context: ./api_protasker/api_protasker
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080"
+    depends_on:
+      - data
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__api_protaskerContext=Server=data,1434;Database=api_protasker;User=mssql;Password=Password@123;TrustServerCertificate=True;    
+ # Base de données sql server
+  data:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+        - "1434:1433"
+    environment:
+      SA_PASSWORD: "Password@123"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - ./db_protasker:/var/opt/mssql/data
+      
+    # Application React
+  frontend:
+    build:
+      context: ./client_protasker
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
