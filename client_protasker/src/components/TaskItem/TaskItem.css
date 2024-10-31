@@ -1,0 +1,63 @@
+:root{
+    --pencil-color : #f2c745;
+    --trash-color: #cf2a27;
+
+    --encours-color : #7e81c2;
+    --encours-border-color : #7e81c2;
+    --encours-bg-color : #d6d8ec;
+
+    --bloque-color : #df5349;
+    --bloque-border-color : #df5349;
+    --bloque-bg-color : #fabab9;
+
+    --termine-color : #4dcacb;
+    --termine-border-color : #4dcacb;
+    --termine-bg-color : #c9f0ef;
+}
+
+.fa-pencil{
+    color: var(--pencil-color);
+}
+
+.fa-trash{
+    color : var(--trash-color);
+}
+.badge {
+    width: 6em;
+}
+
+.encours{
+    background-color: var(--encours-bg-color); 
+    color: var(--encours-color) !important; 
+    border: 2px solid var(--encours-border-color); 
+}
+
+.bloque{
+    background-color: var(--bloque-bg-color);  
+    color: var(--bloque-color) !important; 
+    border: 2px solid var(--bloque-border-color); 
+}
+
+.termine{
+    background-color: var(--termine-bg-color);  
+    color: var(--termine-color) !important; 
+    border: 2px solid var(--termine-border-color); 
+}
+
+.task-item td {
+    text-align: center;
+}
+
+
+.task-item button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #007bff;
+    padding: 0;
+    font-size: 16px;
+}
+
+.task-item button:hover {
+    color: #0056b3;
+}

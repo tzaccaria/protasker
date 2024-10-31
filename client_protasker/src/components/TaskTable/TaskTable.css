@@ -1,0 +1,49 @@
+:root{
+    --radiant-yellow : #ffa223;
+}
+
+
+
+.task-container {
+    width: 90%;
+    overflow-x: auto;
+}
+
+.task-table {
+    width: 90%;
+    table-layout: fixed; 
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.task-table th,
+.task-table td {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+}
+
+.task-table th {
+    font-weight: bold;
+    color : var(--radiant-yellow);
+}
+
+.task-table th:nth-child(1) {
+    width: 60%; 
+}
+
+.task-table th:nth-child(2) {
+    width: 15%;
+}
+
+.task-table th:nth-child(3),
+.task-table th:nth-child(4),
+.task-table th:nth-child(5) {
+    width: 15%;
+}
+
+.task-table th:nth-child(6) {
+    width: 10%;
+}

@@ -1,0 +1,25 @@
+:root {
+    --text-orange: #f69209;
+    --text-white: #ffffff;
+    --bg-blue:  #2f4858;
+}
+
+/* NAVBAR */
+
+.navbar {
+    color: var(--text-orange);
+    background-color: var(--bg-blue);
+}
+
+/* TASK CONTROL */
+.add-task{
+    background-color: var(--bg-blue) !important;
+    color: var(--text-white) !important;
+}
+
+.navbar p a{
+    color: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}

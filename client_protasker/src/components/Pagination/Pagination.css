@@ -1,0 +1,29 @@
+:root{
+    --item-bg-color : #d6d8ec;
+    --item-color : #7e81c2;
+}
+
+.pagination-container{
+    display: flex;
+    justify-content: flex-end; /* Aligne le contenu à droite */
+    padding: 10px 0;
+}
+
+.page-item{
+    border: none !important;
+}
+
+.active{
+    border-color: var(--item-color) !important;
+    background-color : var(--item-bg-color) !important;
+    border-radius: 10% !important;
+    color: var(--item-color) !important;
+}
+
+.page-link{
+    border-color: var(--item-color) !important;
+    background-color : inherit !important;
+    border-radius: 10% !important;
+    color: var(--item-color) !important;
+    border : none !important;
+}

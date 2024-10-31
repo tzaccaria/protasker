@@ -1,0 +1,41 @@
+:root {
+    --text-orange: #f69209;
+    --text-white: #ffffff;
+    --bg-blue:  #2f4858;
+    --excel-color: #3bb042;
+    --filter-color: #808080;
+}
+
+/* TASK CONTROL */
+.add-task{
+    background-color: var(--bg-blue) !important;
+    color: var(--text-white) !important;
+}
+
+
+.button-excel{
+    background-color: inherit;
+    border:none;
+}
+.fa-file-excel-o{
+    color: var(--excel-color);
+    transform: scale(1.5);
+}
+
+.button-filter{
+    background-color: inherit;
+    border:none;
+}
+
+.fa-filter{
+    color: var(--filter-color);
+    transform: scale(1.5);
+}
+
+.fa-tasks{
+    scale: 3;
+}
+
+.fa-tasks, .notasks-text {
+    color: #737373;
+}
