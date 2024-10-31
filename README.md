@@ -29,7 +29,7 @@ Voici la configuration de l'API :
 
 L'API utilise SQL Server en local, il faut donc un SQL Server installé en local.
 
-La configuration est déjà faite dans l'API pour SQL Server, les autres installations seront réalisées via le script
+La configuration est déjà faite dans l'API pour SQL Server.
 
 Ps : il existe dans le repertoire : 
 
@@ -38,7 +38,14 @@ Ps : il existe dans le repertoire :
 Des tables SQL de test Tache et Utilisateur.
 
 ## Lancement
-Après SQL Server, il suffit de lancer le script run.bat depuis le répertoire racine.
+Après SQL Server, il suffit de lancer dans la console:
+
+```
+cd ./client_protasker
+npm install
+cd ./../
+```
+Ensuite lancer le script run.bat depuis le répertoire racine.
 ```shell
 run.bat
 ```
